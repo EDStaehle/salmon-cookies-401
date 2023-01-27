@@ -1,5 +1,48 @@
 # salmon-cookies-401
 
+#  JS Framework Comparative Analysis
+
+## Framework Name (Svelte)
+
+Research Conducted By: Camilla Rees and Elias Staele
+
+### Overall Score and Comments
+Score (Out of 10): 4
+General Comments
+We worked in front-end, using script and style tags
+
+#### Pros
+- some components were pretty well pre-designed
+- starter code for components was well-made
+
+#### Cons
+- felt really extra
+- biased towards TypeScript if you don't want to use it
+- little variety for styling, few color options, etc.
+
+### Ratings and Reviews
+
+1. Documentation
+Overall, it was okay. It wanted us to use TypeScript which we initially attempted to implement, but then installed a TypeScript ignore instead
+
+2. Systems Requirements
+We had to install Svelte, svelte carbon components, and ts ignore to our dependencies
+
+3. Ramp-Up Projections
+If we had more time to figure this out, it probably would have taken a view more days, or even weeks, depending on what you want to accomplish. What we did was limited so we only know what we know, and don't know what we don't.
+
+4. Community Support and Adoption levels
+This frameword doesn't seem too popular. It's probably more popular with TypeScript users.
+
+### Links and Resources
+[Svelte](https://svelte.dev/)
+[Svelte Docs](https://svelte.dev/docs)
+[Repo](https://github.com/EDStaehle/salmon-cookies-401)
+
+If someone were to download your repo (above), what steps do they need to take to run the application
+
+- npm run dev to view locally
+
 ## Problem Domain
 
 ### Implement Salmon Cookies in a New Framework
